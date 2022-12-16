@@ -26,7 +26,6 @@ function newItem(url, left, bottom){
     })
 }
 
-
 let horizon = window.innerHeight / 1.50
 let heightOfSky = window.innerHeight-horizon
 let heightOfGrass = horizon
